@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+}
+#imagem__sofia {
+    border-radius: 100px;
+}
+#quem__sou__eu, #como__falar__comigo {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+}
